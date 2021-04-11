@@ -8,7 +8,7 @@ Made with Java v11.0.10
 
 
 ### Description and Usage
-This program uses the Caesar Cipher method, (inspired by) [Julius Ceaser](https://en.wikipedia.org/wiki/Julius_Caesar) to encrypt a message. The characters in the message are replaced by new characters depending on the encryption key that the user has specified. The user inputs a message then specifies how many positions they would like the characters of their message shifted by, the program then encrypts the message and outputs the encrypted message.The program also has the decrypting option which reverse the actions of encryption.
+This program uses the Caesar Cipher method, inspired by [Julius Ceaser](https://en.wikipedia.org/wiki/Julius_Caesar) to encrypt a message. The characters in the message are replaced by new characters depending on the encryption key that the user has specified. The user inputs a message then specifies how many positions they would like the characters of their message shifted by, the program then encrypts the message and outputs the encrypted message.The program also has the decrypting option which reverse the actions of encryption.
 ### BDD
 |Behaviour	         |Input	             |Output              |
 |:------------------:|:-----------------:|:------------------:|
