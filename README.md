@@ -21,9 +21,9 @@ This program uses the Caesar Cipher method of encryption to encrypt the messages
 To access this project, you will need to access the repository [Ceaser-Cipher](https://github.com/anzalmohamed/Ceasar-Cipher) from github then clone it. Then run 'java App' on your terminal.
 
 ### Technologies Used
-* [Java]()
+* [Java](https://sdkman.io/usage)
 
-* [ASCII]()
+* [ASCII](https://en.wikipedia.org/wiki/ASCII)
 
 ## Contact Information 
 
