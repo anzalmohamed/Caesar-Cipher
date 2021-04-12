@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'week-one-IP'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+def var = dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+var
