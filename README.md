@@ -1,5 +1,5 @@
 # Caesar Cipher
- <img height="100px" src="/src/main/resources/19465.jpg" width="500px">
+ <img height="200px" src="/src/main/resources/19465.jpg" width="600px">
 
 
 This program uses Java to encrypt and decrypt messages by replacing the characters in the message by using an encryption key specified by the user
