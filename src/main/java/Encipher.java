@@ -10,7 +10,6 @@ public class Encipher {
     public int getmKey(){
         return mKey;
     }
-
     public Encipher(String mInputString, int mKey) {
         this.mInputtedString = mInputString;
         this.mKey = mKey;
