@@ -25,8 +25,9 @@ To access this project, you will need to access the repository [Ceaser-Cipher](h
 ### Technologies Used
 * [Java](https://sdkman.io/usage)
 
-###Bugs or Malfunctions
- the decipher option fails to function as desired and returns only one character :(
+### Bugs or Malfunctions
+
+ The decipher option fails to function as desired and returns only one character :(
 
 ## Contact Information 
 
