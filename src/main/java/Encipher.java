@@ -10,8 +10,8 @@ public class Encipher {
     public int getmKey(){
         return mKey;
     }
-    public Encipher(String mInputString, int mKey) {
-        this.mInputtedString = mInputString;
+    public Encipher(String mInputtedString, int mKey) {
+        this.mInputtedString = mInputtedString;
         this.mKey = mKey;
     }
 
