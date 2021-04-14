@@ -15,8 +15,8 @@ This program uses the Caesar Cipher method, inspired by [Julius Ceaser](https://
 ### BDD
 |Behaviour	         |Input	             |Output              |
 |:------------------:|:-----------------:|:------------------:|
-|Encipher:  "java"   |key: 2        |Encrypted: "hyty"  |
-|Decipher: "hyty"    |key used:  2      |Decrypted: "java"  |
+|Encipher:  "anzal"   |key: 2        |Encrypted: "cpbcn"  |
+|Decipher: "cpbcn"    |key used:  2      |Decrypted: "cpbcn"  |
 
 
 ### Setup Installation Requirement
@@ -25,7 +25,8 @@ To access this project, you will need to access the repository [Ceaser-Cipher](h
 ### Technologies Used
 * [Java](https://sdkman.io/usage)
 
-* [ASCII](https://en.wikipedia.org/wiki/ASCII)
+###Bugs or Malfunctions
+ the decipher option fails to function as desired and returns only one character :(
 
 ## Contact Information 
 
